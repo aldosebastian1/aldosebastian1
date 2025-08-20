@@ -9,7 +9,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldo-sebastian-214134316)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@domain.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailaldosebastian@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldosebastian1)
 
 </div>
@@ -21,6 +21,8 @@
 <div align="center">
 
 ### 💻 Development
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -156,13 +158,19 @@ const aldoSebastian = {
 
 ---
 
-## 🌟 Quick Stats
+## 🌟 Quick Stats & Activity
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aldosebastian1&style=for-the-badge&color=58a6ff&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/aldosebastian1?style=for-the-badge&color=58a6ff&labelColor=1c1c1c)
-![Stars](https://img.shields.io/github/stars/aldosebastian1?style=for-the-badge&color=58a6ff&labelColor=1c1c1c)
+![Followers](https://img.shields.io/github/followers/aldosebastian1?style=for-the-badge&color=58a6ff&labelColor=1c1c1c&logo=github)
+![Public Repos](https://img.shields.io/github/stars/aldosebastian1?affiliations=OWNER&style=for-the-badge&color=58a6ff&labelColor=1c1c1c&logo=github&label=Total+Stars)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aldosebastian1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/aldosebastian1)
 
 </div>
 
@@ -172,8 +180,11 @@ const aldoSebastian = {
 
 ### 💬 Let's Connect & Collaborate!
 
+*"Always ready to work on exciting projects and learn new technologies!"*
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldo-sebastian-214134316)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@domain.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailaldosebastian@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldosebastian1)
 
 </div>
 
