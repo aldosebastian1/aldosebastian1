@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Aldo Sebastian
-
+![Aldo Sebastian](github-header-banner.png)
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+UI%2FUX+Designer;Microsoft+Office+Expert;3rd+Semester+Computer+Science+Student;Always+learning+new+technologies+%F0%9F%9A%80)](https://git.io/typing-svg)
