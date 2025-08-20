@@ -164,7 +164,8 @@ const aldoSebastian = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aldosebastian1&style=for-the-badge&color=58a6ff&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/aldosebastian1?style=for-the-badge&color=58a6ff&labelColor=1c1c1c&logo=github)
-![Public Repos](https://img.shields.io/github/stars/aldosebastian1?affiliations=OWNER&style=for-the-badge&color=58a6ff&labelColor=1c1c1c&logo=github&label=Total+Stars)
+![Total Stars](https://img.shields.io/github/stars/aldosebastian1?affiliations=OWNER&style=for-the-badge&color=58a6ff&labelColor=1c1c1c&logo=github&label=Total+Stars)
+![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=58a6ff&labelColor=1c1c1c&logo=github&label=Public+Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faldosebastian1)
 
 </div>
 
@@ -193,5 +194,6 @@ const aldoSebastian = {
 ---
 
 **Made with ❤️ by [aldosebastian1](https://github.com/aldosebastian1)**
+
 
 </div>
