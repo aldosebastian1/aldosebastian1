@@ -154,11 +154,8 @@ const aldoSebastian = {
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aldosebastian1&style=for-the-badge&color=58a6ff&label=Profile+Views)
-
 ![Followers](https://img.shields.io/github/followers/aldosebastian1?style=for-the-badge&color=58a6ff&labelColor=1c1c1c&logo=github)
-
 ![Total Stars](https://img.shields.io/github/stars/aldosebastian1?affiliations=OWNER&style=for-the-badge&color=58a6ff&labelColor=1c1c1c&logo=github&label=Total+Stars)
-
 ![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=58a6ff&labelColor=1c1c1c&logo=github&label=Public+Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faldosebastian1)
 
 
@@ -196,29 +193,14 @@ const aldoSebastian = {
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldo-sebastian-214134316)
-
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailaldosebastian@gmail.com)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldosebastian1)
-
-
-
 </div>
-
-
 
 <div align="center">
 
-
-
 ---
 
-
-
 **Made with ❤️ by [aldosebastian1](https://github.com/aldosebastian1)**
-
-
-
-
 
 </div>
