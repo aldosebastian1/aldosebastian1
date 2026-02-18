@@ -1,23 +1,16 @@
-# 👋 Hey, I'm Aldo Sebastian
-![Aldo Sebastian](github-header-banner.png)
-
+👋 Hey, I'm Aldo Sebastian
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+Enthusiast;UI%2FUX+Designer;IT+Student+at+Medan;Building+Digital+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/aldo-sebastian-214134316"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:emailaldosebastian@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/aldosebastian1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aldo-sebastian-214134316"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:emailaldosebastian@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/aldosebastian1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </div>
 
----
-
-## ⚡ Quick Overview
-
-```javascript
+⚡ Quick Overview
+JavaScript
 const aldoSebastian = {
     pronouns: "He/Him",
     location: "Medan, Indonesia 🇮🇩",
@@ -38,15 +31,27 @@ const aldoSebastian = {
 
 
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dflat-square%26logo%3Djavascript%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-FFD43B%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dblue" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dflat-square%26logo%3Dhtml5%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dflat-square%26logo%3Dcss3%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dmysql%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Fstyle%3Dflat-square%26logo%3Dexpress%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
+
+
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+
+
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
 </td>
 <td align="center" width="33%">
 <strong>🎨 Design</strong>
@@ -54,12 +59,15 @@ const aldoSebastian = {
 
 
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Figma-F24E1E%3Fstyle%3Dflat-square%26logo%3Dfigma%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 
 
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520XD-FF61F6%3Fstyle%3Dflat-square%26logo%3Dadobe-xd%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Canva-00C4CC%3Fstyle%3Dflat-square%26logo%3DCanva%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" />
+
+
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white" />
 </td>
 <td align="center" width="33%">
 <strong>⚙️ Tools & Office</strong>
@@ -67,13 +75,19 @@ const aldoSebastian = {
 
 
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dflat-square%26logo%3Dgit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS%2520Code-007ACC%3Fstyle%3Dflat-square%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Excel-217346%3Fstyle%3Dflat-square%26logo%3Dmicrosoft-excel%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Word-2B579A%3Fstyle%3Dflat-square%26logo%3Dmicrosoft-word%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+
+
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+
+
+
+<img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" />
 </td>
 </tr>
 </table>
@@ -99,8 +113,7 @@ const aldoSebastian = {
 
 <img src="https://komarev.com/ghpvc/?username=aldosebastian1&style=for-the-badge&color=58a6ff&label=Profile+Views" />
 
-
-LinkedIn • Portfolio • Email
+LinkedIn • Repositories • Email
 
 </div>
 
