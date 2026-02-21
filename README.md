@@ -1,32 +1,27 @@
-﻿<!-- HEADER -->
+﻿<!-- ═══════════════════════════════════════════════════ -->
+<!--                     HEADER                         -->
+<!-- ═══════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="github-header-banner.png" alt="Aldo Sebastian Banner" width="100%"/>
 
-  <br/>
+<img src="github-header-banner.png" alt="Aldo Sebastian" width="100%"/>
 
-  <a href="https://github.com/aldosebastian1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aldo+Sebastian+%F0%9F%91%8B;Web+Developer+%7C+UI%2FUX+Designer;Microsoft+Office+Expert;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG"/>
-  </a>
+<br/>
 
-<br/><br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I%27m+Aldo+Sebastian;Web+Developer+%7C+UI%2FUX+Designer;Microsoft+Office+Expert;CS+Student+%7C+Medan%2C+Indonesia;Always+building%2C+always+learning+%F0%9F%9A%80)](https://github.com/aldosebastian1)
 
-  <a href="https://www.linkedin.com/in/aldo-sebastian-214134316">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:emailaldosebastian@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/aldosebastian1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<br/>
 
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldo-sebastian-214134316)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailaldosebastian@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldosebastian1)
 
-  <img src="https://komarev.com/ghpvc/?username=aldosebastian1&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/aldosebastian1?style=flat-square&color=58a6ff&labelColor=1c1c1c&logo=github&label=Followers" alt="Followers"/>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=aldosebastian1&style=flat-square&color=58a6ff&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/aldosebastian1?style=flat-square&color=58a6ff&labelColor=0d1117&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/aldosebastian1?affiliations=OWNER&style=flat-square&color=58a6ff&labelColor=0d1117&logo=github&label=Stars)
+
 </div>
 
 <br/>
@@ -48,100 +43,103 @@
 
 ---
 
-<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                   TECH STACK                       -->
+<!-- ═══════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## 🛠️ Tech Stack
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>💻 Development</strong><br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    </td>
-    <td align="center" width="33%">
-      <strong>🎨 Design</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
-    </td>
-    <td align="center" width="33%">
-      <strong>⚙️ Tools</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>💻 Development</th>
+      <th>🎨 Design</th>
+      <th>⚙️ Tools & Platform</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+        <br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <br/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        <br/>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="MS Office"/>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 </div>
 
 ---
 
-<!-- GITHUB ANALYTICS -->
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                 GITHUB ANALYTICS                   -->
+<!-- ═══════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## 📊 GitHub Analytics
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldosebastian1&theme=github_dark" height="175" alt="GitHub Stats"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldosebastian1&theme=github_dark" height="175" alt="GitHub Stats"/>
 &nbsp;
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldosebastian1&theme=github_dark" height="175" alt="Top Languages"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldosebastian1&theme=github_dark" height="175" alt="Top Languages"/>
 
 <br/><br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=aldosebastian1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-</a>
+<img src="https://streak-stats.demolab.com/?user=aldosebastian1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldosebastian1&theme=github_dark" width="98%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-<!-- CONTRIBUTION -->
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                 LET'S CONNECT                      -->
+<!-- ═══════════════════════════════════════════════════ -->
+
 <div align="center">
 
-## 📈 Contribution Graph
+## 🤝 Let's Work Together
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldosebastian1&theme=github_dark" width="98%" alt="Contribution Graph"/>
-</a>
-
-</div>
-
----
-
-<!-- CONNECT -->
-<div align="center">
-
-## 💬 Let's Connect & Collaborate!
-
-_"Always ready to work on exciting projects and learn new technologies!"_
+_Open to exciting projects, internships, and creative collaborations._
+_Don't hesitate to reach out — I'd love to connect!_
 
 <br/>
 
-<a href="https://www.linkedin.com/in/aldo-sebastian-214134316">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldo-sebastian-214134316)
 &nbsp;
-<a href="mailto:emailaldosebastian@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailaldosebastian@gmail.com)
 &nbsp;
-<a href="https://github.com/aldosebastian1">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldosebastian1)
 
 <br/><br/>
 
 ---
 
-<sub>Made with by <a href="https://github.com/aldosebastian1"><strong>aldosebastian1</strong></a></sub>
+<sub>Crafted with ❤️ and ☕ by <strong><a href="https://github.com/aldosebastian1">Aldo Sebastian</a></strong></sub>
 
 </div>
