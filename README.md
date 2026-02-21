@@ -87,13 +87,94 @@
         <br/>
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
         <br/>
-        <img src="https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Design"/>
+        <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
       </td>
     </tr>
   </tbody>
 </table>
 
 </div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                FEATURED PROJECTS                   -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+> _A selection of my best work in Front End Development & UI/UX Design._
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Project Name 1</h3>
+      <p align="center">
+        <a href="https://github.com/aldosebastian1" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
+        </a>
+      </p>
+      <p align="center"><em>Deskripsi singkat proyek ini — apa yang dibangun, teknologi yang digunakan, dan masalah apa yang diselesaikan.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Project Name 2</h3>
+      <p align="center">
+        <a href="https://github.com/aldosebastian1" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
+        </a>
+      </p>
+      <p align="center"><em>Deskripsi singkat proyek ini — apa yang dibangun, teknologi yang digunakan, dan masalah apa yang diselesaikan.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">UI/UX Design Project</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/View_on_Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+        </a>
+      </p>
+      <p align="center"><em>Deskripsi proyek desain — wireframe, prototype, user research, atau UI kit yang telah dibuat.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Project Name 4</h3>
+      <p align="center">
+        <a href="https://github.com/aldosebastian1" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
+        </a>
+      </p>
+      <p align="center"><em>Deskripsi singkat proyek ini — apa yang dibangun, teknologi yang digunakan, dan masalah apa yang diselesaikan.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
