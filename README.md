@@ -145,6 +145,6 @@ _Don't hesitate to reach out — I'd love to connect!_
 
 ---
 
-<sub>Crafted with ❤️ and ☕ by <strong><a href="https://github.com/aldosebastian1">Aldo Sebastian</a></strong></sub>
+<sub>Crafted by <strong><a href="https://github.com/aldosebastian1">Aldo Sebastian</a></strong></sub>
 
 </div>
