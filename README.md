@@ -37,7 +37,7 @@
 |     |                                                                          |
 | :-: | :----------------------------------------------------------------------- |
 | 📍  | **Medan, Indonesia** 🇮🇩                                                  |
-| 🎓  | **Computer Science** — 3rd Semester                                      |
+| 🎓  | **Computer Science** — 4th Semester                                      |
 | 🎯  | **Front End Web Developer** & **UI/UX Designer**                         |
 | 🌱  | Currently mastering **React**, **Tailwind CSS** & **Figma Advanced**     |
 | 🔭  | Open to **freelance design & dev** projects                              |
