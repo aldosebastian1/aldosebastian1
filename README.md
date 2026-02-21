@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aldo+Sebastian+%F0%9F%91%8B;Web+Developer+%7C+UI%2FUX+Designer;Microsoft+Office+Expert;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <a href="https://www.linkedin.com/in/aldo-sebastian-214134316">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <img src="https://komarev.com/ghpvc/?username=aldosebastian1&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views"/>
   &nbsp;
@@ -33,28 +33,30 @@
 
 ---
 
-##  About Me
+## 🧑‍💻 About Me
 
->  *Passionate about building clean, functional, and beautiful digital experiences.*
+> 💡 _Passionate about building clean, functional, and beautiful digital experiences._
 
--  **Location:** Medan, Indonesia 
--  **Education:** 3rd Semester Computer Science Student
--  **Focus:** Web Development  UI/UX Design  Office Automation
--  **Currently Learning:** Modern JavaScript  React  Node.js
--  **Open to:** Collaboration & Freelance Projects
--  **Email:** [emailaldosebastian@gmail.com](mailto:emailaldosebastian@gmail.com)
+|                  |                                                                     |
+| ---------------- | ------------------------------------------------------------------- |
+| 📍 **Location**  | Medan, Indonesia 🇮🇩                                                 |
+| 🎓 **Education** | 3rd Semester — Computer Science                                     |
+| 💼 **Focus**     | Web Development · UI/UX Design · Office Automation                  |
+| 🌱 **Learning**  | Modern JavaScript · React · Node.js                                 |
+| 🤝 **Open to**   | Collaboration & Freelance Projects                                  |
+| 📫 **Email**     | [emailaldosebastian@gmail.com](mailto:emailaldosebastian@gmail.com) |
 
 ---
 
 <!-- TECH STACK -->
 <div align="center">
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <strong> Development</strong><br/><br/>
+      <strong>💻 Development</strong><br/><br/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -62,12 +64,12 @@
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     </td>
     <td align="center" width="33%">
-      <strong> Design</strong><br/><br/>
+      <strong>🎨 Design</strong><br/><br/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
       <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
     </td>
     <td align="center" width="33%">
-      <strong> Tools</strong><br/><br/>
+      <strong>⚙️ Tools</strong><br/><br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
@@ -82,7 +84,7 @@
 <!-- GITHUB ANALYTICS -->
 <div align="center">
 
-##  GitHub Analytics
+## 📊 GitHub Analytics
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldosebastian1&theme=github_dark" height="175" alt="GitHub Stats"/>
@@ -105,7 +107,7 @@
 <!-- CONTRIBUTION -->
 <div align="center">
 
-##  Contribution Graph
+## 📈 Contribution Graph
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldosebastian1&theme=github_dark" width="98%" alt="Contribution Graph"/>
@@ -118,9 +120,9 @@
 <!-- CONNECT -->
 <div align="center">
 
-##  Let's Connect & Collaborate!
+## 💬 Let's Connect & Collaborate!
 
-*"Always ready to work on exciting projects and learn new technologies!"*
+_"Always ready to work on exciting projects and learn new technologies!"_
 
 <br/>
 
@@ -140,6 +142,6 @@
 
 ---
 
-<sub>Made with  by <a href="https://github.com/aldosebastian1"><strong>aldosebastian1</strong></a></sub>
+<sub>Made with by <a href="https://github.com/aldosebastian1"><strong>aldosebastian1</strong></a></sub>
 
 </div>
