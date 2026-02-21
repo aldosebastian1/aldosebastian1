@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I%27m+Aldo+Sebastian;Web+Developer+%7C+UI%2FUX+Designer;Microsoft+Office+Expert;CS+Student+%7C+Medan%2C+Indonesia;Always+building%2C+always+learning+%F0%9F%9A%80)](https://github.com/aldosebastian1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I%27m+Aldo+Sebastian;Front+End+Web+Developer;UI%2FUX+Designer;Crafting+beautiful+%26+functional+interfaces;CS+Student+%7C+Medan%2C+Indonesia+%F0%9F%9A%80)](https://github.com/aldosebastian1)
 
 <br/>
 
@@ -30,16 +30,19 @@
 
 ## 🧑‍💻 About Me
 
-> 💡 _Passionate about building clean, functional, and beautiful digital experiences._
+> _I'm a Front End Web Developer & UI/UX Designer from Medan, Indonesia. I specialize in crafting visually compelling interfaces with clean code and user-centered design — bridging the gap between beautiful design and functional implementation._
 
-|                  |                                                                     |
-| ---------------- | ------------------------------------------------------------------- |
-| 📍 **Location**  | Medan, Indonesia 🇮🇩                                                 |
-| 🎓 **Education** | 3rd Semester — Computer Science                                     |
-| 💼 **Focus**     | Web Development · UI/UX Design · Office Automation                  |
-| 🌱 **Learning**  | Modern JavaScript · React · Node.js                                 |
-| 🤝 **Open to**   | Collaboration & Freelance Projects                                  |
-| 📫 **Email**     | [emailaldosebastian@gmail.com](mailto:emailaldosebastian@gmail.com) |
+<br/>
+
+|     |                                                                          |
+| :-: | :----------------------------------------------------------------------- |
+| 📍  | **Medan, Indonesia** 🇮🇩                                                  |
+| 🎓  | **Computer Science** — 3rd Semester                                      |
+| 🎯  | **Front End Web Developer** & **UI/UX Designer**                         |
+| 🌱  | Currently mastering **React**, **Tailwind CSS** & **Figma Advanced**     |
+| 🔭  | Open to **freelance design & dev** projects                              |
+| 💬  | Ask me about **HTML/CSS**, **JavaScript**, **Figma**, **UI Prototyping** |
+| 📫  | **[emailaldosebastian@gmail.com](mailto:emailaldosebastian@gmail.com)**  |
 
 ---
 
@@ -54,9 +57,9 @@
 <table>
   <thead>
     <tr>
-      <th>💻 Development</th>
-      <th>🎨 Design</th>
-      <th>⚙️ Tools & Platform</th>
+      <th>🌐 Front End Development</th>
+      <th>🎨 UI/UX Design</th>
+      <th>⚙️ Tools & Workflow</th>
     </tr>
   </thead>
   <tbody>
@@ -66,16 +69,17 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
         <br/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <br/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
         <br/>
-        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-        <br/>
         <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -83,7 +87,7 @@
         <br/>
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
         <br/>
-        <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="MS Office"/>
+        <img src="https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Design"/>
       </td>
     </tr>
   </tbody>
