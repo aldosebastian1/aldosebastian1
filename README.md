@@ -60,6 +60,12 @@
 
 <br/>
 
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldosebastian1&theme=github_dark" width="100%" alt="Aldo's Contribution Graph"/>
+</a>
+
+<br/>
+
 <img src="https://streak-stats.demolab.com/?user=aldosebastian1&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 
 </div>
