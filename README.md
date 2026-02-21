@@ -51,9 +51,9 @@
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=aldosebastian1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="180em" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aldosebastian1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldosebastian1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180em" alt="Top Langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldosebastian1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400&langs_count=8" height="180" alt="Top Langs"/>
 
 <br/>
 
