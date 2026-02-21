@@ -61,12 +61,10 @@
 
 ## 🌟 Quick Stats & Activity
 
-<div align="center">
-    ![Profile Views](https://komarev.com/ghpvc/?username=aldosebastian1&style=for-the-badge&color=58a6ff&label=Profile+Views)
-    ![Followers](https://img.shields.io/github/followers/aldosebastian1?style=for-the-badge&color=58a6ff&labelColor=1c1c1c&logo=github)
-    ![Total Stars](https://img.shields.io/github/stars/aldosebastian1?affiliations=OWNER&style=for-the-badge&color=58a6ff&labelColor=1c1c1c&logo=github&label=Total+Stars)
-    ![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=58a6ff&labelColor=1c1c1c&logo=github&label=Public+Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faldosebastian1)
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=aldosebastian1&style=for-the-badge&color=58a6ff&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/aldosebastian1?style=for-the-badge&color=58a6ff&labelColor=1c1c1c&logo=github)
+![Total Stars](https://img.shields.io/github/stars/aldosebastian1?affiliations=OWNER&style=for-the-badge&color=58a6ff&labelColor=1c1c1c&logo=github&label=Total+Stars)
+![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=58a6ff&labelColor=1c1c1c&logo=github&label=Public+Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faldosebastian1)
 
 <div align="center">
     <a href="https://github.com/aldosebastian1">
@@ -87,8 +85,5 @@
 
 <div align="center">
     <br/>
-    ---
-    <br/>
     <strong>Made with ❤️ by <a href="https://github.com/aldosebastian1">aldosebastian1</a></strong>
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aldosebastian1&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
