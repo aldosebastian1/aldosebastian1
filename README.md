@@ -1,10 +1,11 @@
 <div align="center">
     <img src="github-header-banner.png" alt="Aldo Sebastian" width="100%"/>
-  
-    <h1>👋 Hi, I'm Aldo Sebastian</h1>
-    <p>Web Developer | UI/UX Designer | Microsoft Office Expert</p>
-    <p>3rd Semester Computer Science Student | Always learning new technologies 🚀</p>
 </div>
+
+# 👋 Hi, I'm Aldo Sebastian
+
+Web Developer | UI/UX Designer | Microsoft Office Expert  
+3rd Semester Computer Science Student | Always learning new technologies 🚀
 
 ---
 
@@ -48,14 +49,11 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldosebastian1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldosebastian1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-    <br/>
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=aldosebastian1&theme=github-dark-blue&hide_border=true&background=0d1117"/>
-    </a>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldosebastian1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldosebastian1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=aldosebastian1&theme=github-dark-blue&hide_border=true&background=0d1117)
 
 ---
 
