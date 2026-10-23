@@ -4,6 +4,12 @@
 
 <br/>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=446BAF&center=true&vCenter=true&width=720&lines=Frontend+engineer;UI%2FUX+designer;TypeScript%2C+Next.js+and+Flutter" alt="Frontend engineer, UI/UX designer, TypeScript, Next.js and Flutter" />
+
+</div>
+
 Frontend engineer and UI/UX designer in Medan, Indonesia. I build web and mobile products in TypeScript, Next.js and Flutter, from the Figma file to the deployed release.
 
 ## About
@@ -45,6 +51,14 @@ Freelance workspace tracker: wallet-style dashboard for paid and outstanding inv
 - **CI on push:** `npm ci`, strict type-check and ESLint on the Jaecoo portal; `flutter analyze` and `flutter test` on Hondaku.
 - **Tests before merge:** 8 test files covering Hondaku's booking, catalogue and responsive layout flows.
 - **Specs kept in the repo:** product requirements doc for the Jaecoo portal; architecture, UI and case-study docs for ProjectKu.
+
+## Activity
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/446BAF/aldosebastian1" alt="Contribution calendar for aldosebastian1" width="100%" />
+
+</div>
 
 ## Contact
 
