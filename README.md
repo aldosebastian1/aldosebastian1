@@ -4,11 +4,11 @@
 
 <br/>
 
-Frontend engineer and UI/UX designer in Medan, Indonesia. I build web and mobile products in TypeScript, Next.js and Flutter, from Figma file to deployed release.
+Frontend engineer and UI/UX designer in Medan, Indonesia. I build web and mobile products in TypeScript, Next.js and Flutter, from the Figma file to the deployed release.
 
 ## About
 
-I take the interface layer end to end: typed components, validated forms, automated tests, and the CI that runs them. Layouts have to hold at 390px, and specs have to live in the repo.
+I take the interface layer end to end: typed components, validated forms, automated tests, and the CI that runs them. Layouts have to hold up on a 390px screen, and specs have to live in the repo.
 
 Currently learning Postgres and API design to add backend depth to the interface work.
 
@@ -30,11 +30,11 @@ Vehicle catalogue, test-drive booking and dealer locator for a Jaecoo dealership
 
 **[Hondaku](https://github.com/aldosebastian1/Aplikasi-Mobile-Hondaku)**<br/><sub>Flutter, Dart, Firebase Authentication, flutter_secure_storage</sub>
 
-Motorcycle dealership app: catalogue, real-time credit simulation and end-to-end booking. Session tokens in hardware-backed storage, tests over the booking, catalogue and responsive layout flows.
+Motorcycle dealership app: catalogue, real-time credit simulation and end-to-end booking. Session tokens in hardware-backed storage, tests covering the booking, catalogue and responsive layout flows.
 
 **[Aura Dermacare](https://aura-dermacare.vercel.app)** <sub>[repo](https://github.com/aldosebastian1/Aura-Dermacare)</sub><br/><sub>React, TypeScript, Vite, Vercel</sub>
 
-Clinic website for a dermatology practice serving Jakarta and Medan, written in React and TypeScript and deployed on Vercel.
+Clinic website for a dermatology practice serving Jakarta and Medan. React and TypeScript, deployed on Vercel.
 
 **[ProjectKu](https://github.com/aldosebastian1/projectku-app)**<br/><sub>Flutter, Riverpod, GoRouter, Cloud Firestore</sub>
 
