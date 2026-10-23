@@ -6,7 +6,21 @@
 
 Frontend engineer and UI/UX designer in Medan, Indonesia. I build web and mobile products in TypeScript, Next.js and Flutter, from Figma file to deployed release.
 
-Currently building the Jaecoo Medan sales portal and finishing a Computer Science degree, after shipping the live Aura Dermacare clinic site.
+## About
+
+I take the interface layer end to end: typed components, validated forms, automated tests, and the CI that runs them. Layouts have to hold at 390px, and specs have to live in the repo.
+
+Currently learning Postgres and API design to add backend depth to the interface work.
+
+## Stack
+
+**Interface**<br/><img src="https://img.shields.io/badge/TypeScript-446BAF?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Next.js-446BAF?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-446BAF?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-446BAF?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Framer_Motion-446BAF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+
+**Mobile**<br/><img src="https://img.shields.io/badge/Flutter-446BAF?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-446BAF?style=flat-square&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/Firebase-446BAF?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+
+**Design and delivery**<br/><img src="https://img.shields.io/badge/Figma-446BAF?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Vite-446BAF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Git-446BAF?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-446BAF?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Vercel-446BAF?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+
+<sub>**Also used:** Python, Riverpod, GoRouter, npm</sub>
 
 ## Selected work
 
@@ -25,16 +39,6 @@ Clinic website for a dermatology practice serving Jakarta and Medan, written in 
 **[ProjectKu](https://github.com/aldosebastian1/projectku-app)**<br/><sub>Flutter, Riverpod, GoRouter, Cloud Firestore</sub>
 
 Freelance workspace tracker: wallet-style dashboard for paid and outstanding invoices, deadline-aware progress timeline and real-time sync across devices. Bilingual Indonesian and English.
-
-## Stack
-
-**Interface**<br/><img src="https://img.shields.io/badge/TypeScript-446BAF?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Next.js-446BAF?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-446BAF?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-446BAF?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Framer_Motion-446BAF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-
-**Mobile**<br/><img src="https://img.shields.io/badge/Flutter-446BAF?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-446BAF?style=flat-square&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/Firebase-446BAF?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
-
-**Design and delivery**<br/><img src="https://img.shields.io/badge/Figma-446BAF?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Vite-446BAF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Git-446BAF?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-446BAF?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Vercel-446BAF?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-
-<sub>**Also used:** Python, Riverpod, GoRouter, npm</sub>
 
 ## Engineering practice
 
